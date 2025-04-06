@@ -1,4 +1,4 @@
-# 🧠 Tooba Ali Zahed – Data Science Portfolio
+#  Tooba Ali Zahed – Data Science Portfolio
 
 🎓 PhD Researcher in Data Science | University of Hull  
 📍 Kingston upon Hull, UK | 💼 Open to part-time, remote data roles (20 hrs/week)  
