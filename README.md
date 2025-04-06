@@ -2,7 +2,7 @@
 
 🎓 PhD Researcher in Data Science | University of Hull  
 📍 Kingston upon Hull, UK | 💼 Open to part-time, remote data roles (20 hrs/week)  
-📧 toobazahedali@gmail.com | 🌐 [Notion Portfolio](#) | [LinkedIn](#)
+📧 toobazahedali@gmail.com | 🌐 https://www.notion.so/Tooba-Ali-Zahed-Data-Science-Portfolio-1cd93c8e19b380759c80ff8bedad62d0 | https://www.linkedin.com/in/tooba-zahed-8a7a64341/
 
 ---
 
