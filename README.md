@@ -83,7 +83,7 @@ With 3+ years of experience, I’ve:
 **Location:** Hull, UK  
 **Visa Status:** Student visa (20 hrs/week work limit)  
 **GitHub:** [tz-debug](https://github.com/tz-debug)  
-**Notion Portfolio:** [Link here](#) *(add your live Notion link)*
+**Notion Portfolio:** https://www.notion.so/Tooba-Ali-Zahed-Data-Science-Portfolio-1cd93c8e19b380759c80ff8bedad62d0
 
 ---
 
